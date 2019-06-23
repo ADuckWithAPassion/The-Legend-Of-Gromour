@@ -1,0 +1,44 @@
+<!-- CURRENT SAVE INVENTORY-->
+<item_list>
+	<Player>
+		<Basic_Arrow>10</Basic_Arrow>
+		<Medium_Health_Potion>5</Medium_Health_Potion>
+	</Player>
+	<Bob>
+		<Basic_Sword>1</Basic_Sword>
+		<Expensive_Sword>2</Expensive_Sword>
+		<Basic_Steel_Breastplate>4</Basic_Steel_Breastplate>
+		<Medium_Health_Potion>10</Medium_Health_Potion>
+	</Bob>
+	<Joe>
+		<Basic_Arrow>30</Basic_Arrow>
+		<Basic_Sword>1</Basic_Sword>
+		<Expensive_Sword>2</Expensive_Sword>
+		<Basic_Steel_Breastplate>4</Basic_Steel_Breastplate>
+		<Basic_Bow>3</Basic_Bow>
+	</Joe>
+	<EnemyA>
+		<Basic_Arrow>30</Basic_Arrow>
+		<Basic_Sword>1</Basic_Sword>
+		<Expensive_Sword>2</Expensive_Sword>
+		<Basic_Steel_Breastplate>4</Basic_Steel_Breastplate>
+		<Basic_Bow>3</Basic_Bow>
+	</EnemyA>
+	<KeyDealerA>
+	</KeyDealerA>
+	<KeyDealerB>
+	</KeyDealerB>
+	<Michael>
+	</Michael>
+	<Harry>
+	</Harry>
+	<Karl>
+	</Karl>
+	<Alex>
+	</Alex>
+	<Callum>
+	</Callum>
+	<EndGameShop>
+		<Mayonnaise>10000</Mayonnaise>
+	</EndGameShop>
+</item_list>

@@ -1,0 +1,50 @@
+<item_values>
+	<Basic_Sword type="Weapon">
+		<Damage>10</Damage>
+		<Speed>5</Speed>
+		<Value>15</Value>
+	</Basic_Sword>
+	<Expensive_Sword type="Weapon">
+		<Damage>50</Damage>
+		<Speed>25</Speed>
+		<Value>1500</Value>
+	</Expensive_Sword>
+	<Basic_Bow type="Bow">
+		<Damage>15</Damage>
+		<Range>15</Range>
+		<Value>25</Value>
+	</Basic_Bow>
+	<Better_Bow type="Bow">
+		<Damage>35</Damage>
+		<Range>25</Range>
+		<Value>50</Value>
+	</Better_Bow>
+	<Basic_Arrow type="Arrow">
+		<Damage>10</Damage>
+		<Value>1</Value>
+	</Basic_Arrow>
+	<Basic_Steel_Breastplate type ="Breastplate">
+		<Armour>10</Armour>
+		<Weight>20</Weight>
+		<Value>15</Value>
+	</Basic_Steel_Breastplate>
+	<Mayonnaise type="Weapon">
+		<Damage>31415</Damage>
+		<Speed>271828</Speed>
+		<Value>1000</Value>
+	</Mayonnaise>
+	<Medium_Health_Potion type="Potion">
+		<Effect effect="Heal">150</Effect>
+		<Value>50</Value>
+	</Medium_Health_Potion>
+	<Empty type="Weapon">
+		<Damage>0</Damage>
+		<Speed>0</Speed>
+		<Value>0</Value>
+	</Empty>
+	<Empty type="Breastplate">
+		<Armour>1</Armour>
+		<Weight>0</Weight>
+		<Value>0</Value>
+	</Empty>
+</item_values>

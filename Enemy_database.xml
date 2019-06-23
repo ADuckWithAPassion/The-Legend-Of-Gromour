@@ -1,0 +1,22 @@
+<enemy_list>
+	<EnemyA>
+		<Name>EnemyA</Name>
+		<Level>8</Level>
+		<XP>30</XP>
+		<Gold>989</Gold>
+		<Health>100</Health>
+		<MaxHealth>400</MaxHealth>
+		<Strength>10</Strength>
+		<Speed>40</Speed>
+		<Weapon>Expensive_Sword</Weapon>
+		<Helmet>Empty</Helmet>
+		<Arrow>Basic_Arrow</Arrow>
+		<Breastplate>Basic_Steel_Breastplate</Breastplate>
+		<Bow>Basic_Bow</Bow>
+		<w>16</w>
+		<h>22</h>
+		<x>15</x>
+		<y>50</y>
+		<Class>Enemy</Class>
+	</EnemyA>
+</enemy_list>
